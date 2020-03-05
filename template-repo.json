@@ -1,5 +1,16 @@
 [{
-  "name": "angular8-pc",
-  "url": "github:fengyinchao/Angular-Manager-System",
-  "description": "基于 Ng-Alain 和 Ng-Zorro-Antd 构建的 Angular 管理后台项目模板"
-}]
+    "name": "angular8-pc-manager",
+    "url": "github:fengyinchao/Angular-Manager-System",
+    "description": "基于 Ng-Alain 和 Ng-Zorro-Antd 构建的 Angular 管理后台项目模板"
+  },
+  {
+    "name": "vue-pc",
+    "url": "github:fengyinchao/vue-pc",
+    "description": "基于 Vue 三件套的 PC 端项目模板"
+  },
+  {
+    "name": "vue-threejs",
+    "url": "github:fengyinchao/vue-threejs",
+    "description": "基于 Vue 和 Three.js 的 3d 项目模板"
+  }
+]
