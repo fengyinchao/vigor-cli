@@ -1,6 +1,6 @@
 {
   "name": "vigor-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "项目脚手架，提升开发效率工具",
   "repository": "git@github.com:fengyinchao/vigor-cli.git",
   "author": "风之化身 <15926339107@163.com>",
