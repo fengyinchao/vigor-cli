@@ -4,9 +4,14 @@
     "description": "基于 Ng-Alain 和 Ng-Zorro-Antd 构建的 Angular 管理后台项目模板"
   },
   {
-    "name": "vue-pc",
-    "url": "github:fengyinchao/vue-pc",
+    "name": "vue2-pc",
+    "url": "github:fengyinchao/vue2-pc",
     "description": "基于 Vue 三件套的 PC 端项目模板"
+  },
+  {
+    "name": "vue2-pc-manager",
+    "url": "github:fengyinchao/vue2-pc-manager",
+    "description": "基于 Vue 的管理后台项目"
   },
   {
     "name": "vue-threejs",
