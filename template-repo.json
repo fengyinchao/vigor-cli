@@ -1,4 +1,5 @@
-[{
+[
+  {
     "name": "angular8-pc-manager",
     "url": "github:fengyinchao/Angular-Manager-System",
     "description": "基于 Ng-Alain 和 Ng-Zorro-Antd 构建的 Angular 管理后台项目模板"
@@ -17,5 +18,10 @@
     "name": "vue-threejs",
     "url": "github:fengyinchao/vue-threejs",
     "description": "基于 Vue 和 Three.js 的 3d 项目模板"
+  },
+  {
+    "name": "standard-template",
+    "url": "github:fengyinchao/standard-template",
+    "description": "标准化项目模板(Ts+Eslint+Stylelint+Prettier+Commitlint+Changelog)"
   }
 ]
