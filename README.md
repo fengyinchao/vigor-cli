@@ -1,3 +1,4 @@
+<div align="center"><img src="./logo.png"/></div>
 # vigor-cli
 
 一款基于模版仓库快速创建应用的脚手架,当前支持的模版仓库有：
