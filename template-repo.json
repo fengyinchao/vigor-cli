@@ -1,27 +1,27 @@
 [
   {
     "name": "angular8-pc-manager",
-    "url": "github:fengyinchao/Angular-Manager-System",
+    "url": "github:VigorDP/Angular-Manager-System",
     "description": "基于 Ng-Alain 和 Ng-Zorro-Antd 构建的 Angular 管理后台项目模板"
   },
   {
     "name": "vue2-pc",
-    "url": "github:fengyinchao/vue2-pc",
+    "url": "github:VigorDP/vue2-pc",
     "description": "基于 Vue 三件套的 PC 端项目模板"
   },
   {
     "name": "vue2-pc-manager",
-    "url": "github:fengyinchao/vue2-pc-manager",
+    "url": "github:VigorDP/vue2-pc-manager",
     "description": "基于 Vue 的管理后台项目"
   },
   {
     "name": "vue-threejs",
-    "url": "github:fengyinchao/vue-threejs",
+    "url": "github:VigorDP/vue-threejs",
     "description": "基于 Vue 和 Three.js 的 3d 项目模板"
   },
   {
-    "name": "standard-template",
-    "url": "github:fengyinchao/standard-template",
-    "description": "标准化项目模板(Ts+Eslint+Stylelint+Prettier+Commitlint+Changelog)"
+    "name": "fe-standard-config-seed",
+    "url": "github:fengyinchao/fe-standard-config-seed",
+    "description": "代码规范配置标准化模板"
   }
 ]
